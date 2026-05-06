@@ -1,6 +1,7 @@
 ## Relevant Links
 🎬 [Founder video](https://www.loom.com/share/49a3b76075d34ba58fdb8b8cda3f2826)
 🚀 [Live MVP](https://sola-app.onrender.com)
+🌐 [Website](https://sola-app.onrender.com/website)
 
 ## Business Model
 
